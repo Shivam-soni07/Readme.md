@@ -6,9 +6,9 @@ I turn data into insights and ideas into interactive web experiences.
 
 **Tech Stack:** Python, SQL, Pandas, Power BI, JavaScript, React
 
-🌐 **Portfolio:** https://shivamsoni.github.io
+🌐 **Portfolio:** (https://shivam-soni07.github.io/shivamsoni.github.io/)
 📧 **Email:** 8729shivam@gmail.com
-📍 Faridabad, India
+📍 Delhi, India
 
 ### 🚀 Projects
 - Sales Dashboard - In Progress
